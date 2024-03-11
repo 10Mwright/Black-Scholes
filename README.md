@@ -1,0 +1,1 @@
+An implementation of the Black-Scholes model for pricing European style options.
