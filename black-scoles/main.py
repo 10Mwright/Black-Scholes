@@ -25,4 +25,6 @@ def calculate(currentPrice, strikePrice, rfInterestRate, time, volatility):
 
     print("Black-Scholes value is: ", optionPrice)
 
+    return optionPrice
+
 main()
